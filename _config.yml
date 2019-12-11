@@ -26,7 +26,7 @@ github_username:  sophieclark
 
 # Build settings
 markdown: kramdown
-theme: jeromelachaud/grayscale-theme
+theme: minima
 plugins:
   - jekyll-feed
 
